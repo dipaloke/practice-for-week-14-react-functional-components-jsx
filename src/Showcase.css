@@ -1,0 +1,16 @@
+.bgGreen {
+  background: #008000;
+  color: #ffff;
+}
+
+.bgWhite {
+  background: #ffff;
+  color: #008000;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
